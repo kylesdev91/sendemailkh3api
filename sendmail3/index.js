@@ -1,3 +1,4 @@
+// CALL FOR IT!
 const nodemailer = require('nodemailer');
 
 module.exports = async function (context, req) {
